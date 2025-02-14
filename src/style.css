@@ -1,7 +1,9 @@
-.content {
-    content: "TEST";
-    background-color: grey;
-    width: 300px;
-    height: 300px;
-    margin: 200px auto;
+@font-face {
+    font-family: "Playfair Display";
+    src: url("./fonts/PlayfairDisplay-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("./fonts/Roboto-VariableFont_wdth\,wght.ttf");
 }
